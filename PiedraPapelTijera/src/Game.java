@@ -1,7 +1,9 @@
 /**
  * Clase principal.
- * Versi√≥n 1.0
- * Autor: Profesor Entorno Desarrollo
+ * VersiÛn 2.0
+ * Autor: Alejandro MartÌnez Serrano
+ * Ejercicio T9 - Torito Sepia.
+ * 
  */
 public class Game {
 
@@ -12,7 +14,7 @@ public class Game {
 	}
 
 	private void welcome() {
-		System.out.println("Bienvenido a nuestro peque√±o juego: Piedra Papel Tijeras :-D");
+		System.out.println("Bienvenido a nuestro peque√±o juego: Piedra Papel Tijeras Lagartija y Spok :-D");
 	}
 
 	private void printHelp() {
